@@ -27,9 +27,13 @@
             case 4:
                 Console.WriteLine();
                 break;
+            case 5:
+                Console.WriteLine("deneme");
+                break;
             default:
                 Console.WriteLine("Lütfen geçerli bir değer giriniz.");
                 break;
+
 
         }
     }
