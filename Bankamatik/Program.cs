@@ -28,7 +28,7 @@
                 Console.WriteLine();
                 break;
             case 5:
-                Console.WriteLine("deneme");
+                Console.WriteLine("deneme2");
                 break;
             default:
                 Console.WriteLine("Lütfen geçerli bir değer giriniz.");
