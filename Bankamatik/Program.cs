@@ -30,6 +30,8 @@
             case 5:
                 Console.WriteLine("deneme2");
                 break;
+            case 6:
+                Console.WriteLine("Arabesk Fm Was Here !!!!");
             default:
                 Console.WriteLine("Lütfen geçerli bir değer giriniz.");
                 break;
